@@ -1,0 +1,7 @@
+{
+  "name": "React Guitar Tuner",
+  "description": "A simple and accurate guitar tuner built with React. Helps you tune your guitar to standard tuning using your device's microphone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
